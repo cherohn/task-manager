@@ -1,4 +1,4 @@
-package com.cherohn.taskManager.dto;
+package com.cherohn.taskManager.dto.request;
 
 import jakarta.validation.constraints.*;
 import lombok.*;

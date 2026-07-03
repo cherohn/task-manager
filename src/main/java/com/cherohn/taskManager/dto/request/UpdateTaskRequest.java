@@ -1,4 +1,4 @@
-package com.cherohn.taskManager.dto;
+package com.cherohn.taskManager.dto.request;
 
 import com.cherohn.taskManager.model.TaskPriority;
 import com.cherohn.taskManager.model.TaskStatus;
