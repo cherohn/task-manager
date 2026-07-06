@@ -30,7 +30,7 @@ class TaskServiceTest {
     @Mock
     private TaskRepository taskRepository;
 
-    @Mock
+    @InjectMocks
     private TaskService taskService;
 
     private User usuarioDono;
